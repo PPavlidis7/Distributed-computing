@@ -1,0 +1,1 @@
+These folders contain some tasks at Distributed Systems course
